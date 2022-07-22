@@ -1,0 +1,4 @@
+bit
+requests
+forex-python 
+pyarmor
